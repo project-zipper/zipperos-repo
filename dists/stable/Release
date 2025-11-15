@@ -1,0 +1,18 @@
+Suite: stable
+Codename: stable
+Date: Sat, 15 Nov 2025 00:43:26 UTC
+Architectures: amd64
+Components: main
+Description: ZipperOS Official Repo
+MD5Sum:
+ fb632bfdd632e655b49ad0a3a806ccc3 8633 main/binary-amd64/Packages
+ 31ddda6b4fba4eb6796a32614c68af01 2803 main/binary-amd64/Packages.gz
+ bc825f9b9122c895cb692fb9bca819d0 88 main/binary-amd64/Release
+SHA1:
+ 196f796d9e3a6bd68aeead39c6e9c97b608f7cbf 8633 main/binary-amd64/Packages
+ d7544039d3120390a53a4664ec5ed3b7912b0738 2803 main/binary-amd64/Packages.gz
+ c22926ac19bc73925ad08798f205104d16d39db8 88 main/binary-amd64/Release
+SHA256:
+ ef0fcea8e6985a9c837f8412fd67581f65934b4fdcad54cf9f8902a64dcdd140 8633 main/binary-amd64/Packages
+ 87b3c70013a3a2e0c08e96e7f807d9b4f4c362094564653f861c95eaffc4f33d 2803 main/binary-amd64/Packages.gz
+ 51a46cc9cc00e27b531ee95e5dd981d8ea5d54a469c27a7c9ba9eee4e7adbae2 88 main/binary-amd64/Release
