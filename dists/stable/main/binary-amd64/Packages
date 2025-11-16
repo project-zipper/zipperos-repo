@@ -1,0 +1,288 @@
+Package: zerminal
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Wolfie
+Priority: optional
+Section: utils
+Filename: pool/main/z/zerminal/zerminal_1.0.0_amd64.deb
+Size: 2528
+SHA256: 3aaa7fbc8dbb1d208ab1be0aa72d745e1a875a67db51ca05e3d53c3b2537a37e
+SHA1: 8db4fc80448cb3b959e6f80cd714029b0b2855c3
+MD5sum: 3c75087601ac2f568bd8db55c4366c23
+Description: ZipperOS Neon Terminal with ChatGPT integration and full Zipper style
+
+Package: zip-bak
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-bak/zip-bak_1.0.0_amd64.deb
+Size: 3722
+SHA256: 4f1c82bc6d15ae5ff886f551918bcfbdf53004d5549ecae7f23821584c0191b9
+SHA1: defaca80a5e3764e73a3c856a976aed7abf57e3e
+MD5sum: a682b462ba846d4f52012242b8def2e1
+Description: ZipperOS utility zip-bak
+
+Package: zip-clean
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-clean/zip-clean_1.0.0_amd64.deb
+Size: 3990
+SHA256: 44d4c04477b9cea3938383d64a2f1be3d178e4836df9688e54b52deff920d0ed
+SHA1: 563bb4b0a5201ae254254c6be791356f03a34562
+MD5sum: ce276e46816609b68779f16f20642dfc
+Description: ZipperOS system utility zip-clean
+
+Package: zip-cp
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-cp/zip-cp_1.0.0_amd64.deb
+Size: 2978
+SHA256: a385a871b00c0e55e5518ff4f20fb664f14694725d1125d8d0b6a686e939cc9c
+SHA1: b3c71a47121e0a5492187b3bf61cc6b8e4e9a655
+MD5sum: 9590d5cbcfa29f87b8d6478dcbfdad2c
+Description: ZipperOS utility zip-cp
+
+Package: zip-cpu
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-cpu/zip-cpu_1.0.0_amd64.deb
+Size: 3294
+SHA256: 3353f7d3ee61c78c78dbedb4bc19d5dc26244daede8b1569e11723a5aa200b15
+SHA1: 2ec4e7accca84501da1cf61be84fd408fb9b7fb4
+MD5sum: c794a31742d4301f09baeba728042344
+Description: ZipperOS system utility zip-cpu
+
+Package: zip-del
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-del/zip-del_1.0.0_amd64.deb
+Size: 3612
+SHA256: da079cc2e2942e1fea9a118c5dfc3dcfce4529e1d243311585d9d30ad4fc2fa1
+SHA1: 5a8a8dd9699ec75ef726c239ea335bab51f75d3b
+MD5sum: 1c6b4cd779972cdfaf1e8e14165ce708
+Description: ZipperOS utility zip-del
+
+Package: zip-disk
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-disk/zip-disk_1.0.0_amd64.deb
+Size: 3748
+SHA256: 76f59acbbacafaff532aaba10b16bdb22278ec4a21c4691a2d2fe13e860186e6
+SHA1: a390b8b41d67450b3f401568e04137f51bf0e94d
+MD5sum: 8f2edc331e855ae1d7ee74ab8d3c4fe0
+Description: ZipperOS system utility zip-disk
+
+Package: zip-find
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-find/zip-find_1.0.0_amd64.deb
+Size: 3798
+SHA256: e652cd2da3c5af0e64e8c4b4f5f653642cabf04a60ac3d17c1cb6425e409fc44
+SHA1: 3628c967b578d3a6bd64c08551868b949e88c04d
+MD5sum: c1d487fdb6e9687b14fddf41e8dfe08e
+Description: ZipperOS utility zip-find
+
+Package: zip-logs
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-logs/zip-logs_1.0.0_amd64.deb
+Size: 3908
+SHA256: 722c35da58990c05f2eecdc74e0bb1e4d8ba990bbd2934bac6c8389a1fe6e0c8
+SHA1: d1f12a9c319fd105da1c590747fc9743b6577374
+MD5sum: 0ee17612dd1ca3ef09b3417b5fed2dda
+Description: ZipperOS system utility zip-logs
+
+Package: zip-ls
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-ls/zip-ls_1.0.0_amd64.deb
+Size: 3148
+SHA256: cc622fc61e0f84f56e11ec884a98ea7af350ef9fb8f8ab3a029dc6135ae65d83
+SHA1: 23425a0dead3f858238e627232bd3bd03c1512c6
+MD5sum: eca4529686a962f6f733d496c7dd3fb1
+Description: ZipperOS utility zip-ls
+
+Package: zip-mem
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-mem/zip-mem_1.0.0_amd64.deb
+Size: 3452
+SHA256: 71451585c2e90a8a38b5498f7c750dd55f844250b8f62ff2a8be09acbf3c6bbf
+SHA1: a41dbe3cbd8fd7a3e313ec28c5b3328230e18950
+MD5sum: 9f3bd0f5e89515f4c273a3bd315f5ede
+Description: ZipperOS system utility zip-mem
+
+Package: zip-mkcd
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-mkcd/zip-mkcd_1.0.0_amd64.deb
+Size: 4122
+SHA256: 5480a274234eee62136e5a953e38cf6f5431a6d13eea8df1d7032a5c9aab8503
+SHA1: 1fcc5d399130699b21d376f0ddae51e09a2a5a45
+MD5sum: 351479e774269fe1e63424d482d06a1d
+Description: ZipperOS utility zip-mkcd
+
+Package: zip-mv
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-mv/zip-mv_1.0.0_amd64.deb
+Size: 3426
+SHA256: b46611767ef8e74a6edb11a0e72abbc878c58b2a26858fce48a901d098de33a0
+SHA1: efbb3482d53f1e652affc0c39b4860e849187c55
+MD5sum: 06dc75f4d3b6ffa4cdb350350bd169b1
+Description: ZipperOS utility zip-mv
+
+Package: zip-net
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-net/zip-net_1.0.0_amd64.deb
+Size: 3484
+SHA256: d4c6cb71447ecd19effae6af143c25e29d6b5a11ed17c7f96be73ae0cd520c72
+SHA1: 9522bcbfa8af4720843248a54817f07c30382c10
+MD5sum: 2885ff5e82299de002c5b0c7e052e5a3
+Description: ZipperOS system utility zip-net
+
+Package: zip-proc
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-proc/zip-proc_1.0.0_amd64.deb
+Size: 3446
+SHA256: 01f78217bc8ea43dff8ff17fbe25456703a11b87f210dcca3c02fecb83adbd38
+SHA1: 25f62c3a7303449c48917158620b3a6a116230a1
+MD5sum: 3092caa2940ef26f546da369fb7cb3b2
+Description: ZipperOS system utility zip-proc
+
+Package: zip-rn
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-rn/zip-rn_1.0.0_amd64.deb
+Size: 3162
+SHA256: 56cfa22dac171395d9b0adbfc38823ea328795f8701634e8238ac2ec047ce93b
+SHA1: f02af82e4a7e75f6311e967279b87cfbf49dddbb
+MD5sum: 9f7409e6eaea56cfdedd16c17c8fae50
+Description: ZipperOS utility zip-rn
+
+Package: zip-size
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-size/zip-size_1.0.0_amd64.deb
+Size: 3324
+SHA256: 26478b88e4781b721fc2042428d44f2d822a0248198b7cca345ebec569c3c60b
+SHA1: f3b57a035b3beac8a0ba9bf56f032c68d7607e23
+MD5sum: 2e447ffdde0b95ccc2fdd96cfaf08df6
+Description: ZipperOS utility zip-size
+
+Package: zip-sysinfo
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-sysinfo/zip-sysinfo_1.0.0_amd64.deb
+Size: 4084
+SHA256: a97b97e6b042f153b6fb65c8aac57f5ce51651f05f57dac09c131074fb780c76
+SHA1: f627bca458e55370ab4a3a88cdfa46693a535227
+MD5sum: 1c30fb86ae1217a203a9d9c61c2c1672
+Description: ZipperOS system utility zip-sysinfo
+
+Package: zip-temp
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-temp/zip-temp_1.0.0_amd64.deb
+Size: 3674
+SHA256: 70e3ffcac65494f6cc892ab088a055c779920df7823094a91a6130e7b511a4ad
+SHA1: e897e8ef4cf87681cc12f2f139524829c277cf99
+MD5sum: ff68ba299098b80dd2d53b5f088b9733
+Description: ZipperOS system utility zip-temp
+
+Package: zip-touch
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-touch/zip-touch_1.0.0_amd64.deb
+Size: 4108
+SHA256: efc7cf0ae2275bfadc7e420656cb12d638dac46e7c115b044f9340d8457ba6b0
+SHA1: 376b406424a2ee9902975faab5d10e079023e1b3
+MD5sum: 8ee5ba199221c30ac1e76c19e3fc46a8
+Description: ZipperOS utility zip-touch
+
+Package: zip-uptime
+Version: 1.0.0
+Architecture: amd64
+Maintainer: ZipperOS Team
+Priority: optional
+Section: utils
+Filename: pool/main/z/zip-uptime/zip-uptime_1.0.0_amd64.deb
+Size: 3762
+SHA256: 7ff5de98ffbdecc7cbf229ddeb692fe4f86e1a4f641f86b9e481f426542c2997
+SHA1: 1b6f637a3f47d8052d922906ce63ec2d955b18cb
+MD5sum: 446238481d9f088db2f7a36c831af022
+Description: ZipperOS system utility zip-uptime
+
+Package: ziprey-deb
+Version: 1.0
+Architecture: all
+Depends: python3, python3-pip, python3-opencv, python3-pillow
+Maintainer: Wolfie
+Priority: optional
+Section: utils
+Filename: pool/main/z/ziprey-deb/ziprey-deb_1.0_all.deb
+Size: 1222
+SHA256: f09a267119f5323dc9d403ea0243ab4191d2c2d1efacc90304e8493529cb12f9
+SHA1: 2001d325a319c00e7b24c215e6cdccda620024bc
+MD5sum: bfd553f5a582dcd48a941a3525adc6af
+Description: Ziprey Deb - AI-integrated gallery for ZipperOS
+ An intelligent gallery app that organizes, enhances, and curates your images automatically.
+
